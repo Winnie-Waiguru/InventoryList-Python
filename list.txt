@@ -1,0 +1,5 @@
+items, price, no_items
+palazzo 200 20pcs
+Dresses 300 50pcs
+BLouses 100 120pcs
+t-shirts 50  100pcs
